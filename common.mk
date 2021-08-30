@@ -29,6 +29,7 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay-cherish
 
 PRODUCT_PACKAGES += \
+    OdmOverlay-OPSystemUI \
     OnePlusIconShapeCircleOverlay \
     OnePlusIconShapeRoundedRectOverlay \
     OnePlusIconShapeSquareOverlay \
