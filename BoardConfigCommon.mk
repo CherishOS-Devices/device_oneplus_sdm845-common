@@ -69,7 +69,7 @@ TARGET_SYSTEM_PROP += $(COMMON_PATH)/system.prop
 BOARD_VNDK_VERSION := current
 
 # ANT+
-BOARD_ANT_WIRELESS_DEVICE := "qualcomm-hidl"
+BOARD_ANT_WIRELESS_DEVICE := "vfs-prerelease"
 
 # APEX
 DEXPREOPT_GENERATE_APEX_IMAGE := true
